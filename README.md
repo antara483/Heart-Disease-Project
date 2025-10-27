@@ -7,6 +7,8 @@ I implemented data cleaning, scaling, model training, overfitting analysis, cros
 
 Python
 
+Numpy
+
 Scikit-learn – model building, evaluation, feature scaling
 
 Matplotlib & Seaborn – data visualization
@@ -23,7 +25,7 @@ Dataset: heart.csv
 
 Language: Python
 
-Libraries Used: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Graphviz, Joblib
+Libraries Used: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Graphviz, 
 
 ## Steps I Implemented
 ### Data Preprocessing
