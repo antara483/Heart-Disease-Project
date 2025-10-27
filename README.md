@@ -68,10 +68,6 @@ Performed 5-fold cross-validation, reaching average accuracy ≈ 0.997.
 
 I visualized both models’ confusion matrices side by side for performance comparison.
 
-Model	True Negatives	False Positives	False Negatives	True Positives	Accuracy
-Decision Tree	100	0	3	102	0.985
-Random Forest	100	0	0	105	1.00
-
 Confusion matrices were plotted using ConfusionMatrixDisplay with different color maps for better contrast.
 
 ### Feature Importance Analysis
