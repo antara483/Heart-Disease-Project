@@ -34,7 +34,7 @@ env/
 
 # Graphviz outputs
 *.dot
-*.png
+
 
 
 # System files
