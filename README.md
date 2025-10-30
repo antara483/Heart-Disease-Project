@@ -3,6 +3,20 @@
 This is my Heart Disease Prediction project, where I built and compared multiple machine learning models to predict whether a person is likely to have heart disease based on clinical data.
 I implemented data cleaning, scaling, model training, overfitting analysis, cross-validation, and interpretability techniques to ensure high performance and explainability.
 
+## 🖼️ Model Output
+
+Here’s how the Overfitting Analysis visualization looks:
+
+![Confusion Matrix](images/Screenshot%201.png)
+
+And here’s the Feature Importance:
+
+![Accuracy Score](images/Screenshot%202.png)
+
+And here’s the Decision Tree Visualization:
+
+![Accuracy Score](images/Screenshot%203.png)
+
 Dataset[https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset]
 
 ## Tools and Libraries Used
