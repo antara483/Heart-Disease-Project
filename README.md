@@ -9,7 +9,7 @@ Here’s how the Overfitting Analysis visualization looks:
 
 ![Confusion Matrix](images/Screenshot%201.png)
 
-And here’s the Feature Importance:
+Here’s the Feature Importance:
 
 ![Accuracy Score](images/Screenshot%202.png)
 
